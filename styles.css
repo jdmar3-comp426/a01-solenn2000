@@ -1,0 +1,53 @@
+.header{
+    background-color:#dcdcdcab;
+}
+nav{
+    display:block;
+    padding:5px;
+    text-align:center;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a:hover{
+    border-style: dashed;
+}
+nav ul li a{
+    padding:9px;
+    background-color:#dcdcdcab;
+}
+body{
+    background-color: #7c7986;
+}
+
+.header h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #3072ee;
+    font-style: italic;
+
+}
+.text p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+
+}
+figure img{
+    max-width: 60%;
+    max-height: 60%;
+    margin: auto;
+    display: block;
+    border: 5px solid #dcdcdcab
+}
+.image img{
+    max-width: 40%;
+    max-height: 40%;
+    margin: auto;
+    display: block;
+    border: 5px solid #dcdcdcab
+
+}
+.image .caption p{
+text-align: center;
+font-size: 0.6em;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

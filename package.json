@@ -1,0 +1,23 @@
+{
+  "name": "a01-solenn2000",
+  "version": "1.0.0",
+  "description": "A webpage about the Three Sisters of Fate",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-solenn2000.git"
+  },
+  "author": "Solenn de Larminat",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-solenn2000/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-solenn2000#readme"
+}
